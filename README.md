@@ -1,0 +1,1 @@
+Questo progetto si propone di offrire una soluzione basata sull'intelligenza artificiale per [problema che risolve, es. analizzare immagini, prevedere tendenze, rispondere a domande, ecc.]. È stato progettato per essere facilmente integrabile in applicazioni esistenti, con un focus su [punto di forza, es. velocità, precisione, scalabilità].
